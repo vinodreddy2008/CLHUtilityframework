@@ -1,0 +1,20 @@
+PODS:
+  - CryptoSwift (0.8.3)
+  - HTMLString (6.0.1)
+
+DEPENDENCIES:
+  - CryptoSwift (= 0.8.3)
+  - HTMLString (~> 6.0)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+    - HTMLString
+
+SPEC CHECKSUMS:
+  CryptoSwift: 033efc3523865d19cc6ab6612fa17a62613b5dfa
+  HTMLString: 4abe8cbe94660b328bbe4fc014dabdf0481b16a7
+
+PODFILE CHECKSUM: 416a8579aaf7ca0597f8d1ee3f14c8db1bc02eb1
+
+COCOAPODS: 1.9.3
